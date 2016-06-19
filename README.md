@@ -1,2 +1,4 @@
 # hello-world
-my first GitHub repo
+Hello, this is my first GitHub repo.
+
+Just starting to use this repo.
